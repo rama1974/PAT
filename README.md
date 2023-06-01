@@ -8,4 +8,5 @@
 
 # NOTE
 
-If the user does not find the _Desktop shortcut_, the file can be found at C:Program files(x86)\PAT\app.dist\app.exe.
+1. If the user does not find the _Desktop shortcut_, the file can be found at C:Program files(x86)\PAT\app.dist\app.exe.
+2. To uninstall the application, the user can find the _uninstalling application_ at C:Program files(x86)\PAT.
