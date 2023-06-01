@@ -2,11 +2,10 @@
 
 ## INSTALLATION METHOD
 
-    _ To use the ***PAT*** tool, user should download the *zip file* **PAT.rar** and un-zip.
-    _ After un-zipping the contents of the file, user finds with a *executable file (.exe)* , on clicking it a dialogue screen appears.
-    _ On following the normal installation process, A *Desktop shortcut* is found which is the *PAT application* which the user is ready to use.
+1. To use the **_PAT_** tool, user should download the _zip file_ **PAT.rar** and un-zip.
+2. After un-zipping the contents of the file, user finds with a _executable file (.exe)_ , on clicking it a dialogue screen appears.
+3. On following the normal installation process, A _Desktop shortcut_ is found which is the _PAT application_ which the user is ready to use.
 
-```
 # NOTE
-    _ If the user does not find the *Desktop shortcut*, the file can be found at C:Program files(x86)\PAT\app.dist\app.exe.
-```
+
+If the user does not find the _Desktop shortcut_, the file can be found at C:Program files(x86)\PAT\app.dist\app.exe.
